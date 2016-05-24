@@ -1,0 +1,2 @@
+# ILS_coefficient_calctool
+知的照明システムの影響度係数を計算するための補助ツール
